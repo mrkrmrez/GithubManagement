@@ -8,5 +8,12 @@ namespace SampleProject
 {
     public class Class1
     {
+        // This new method named Method_Destination
+        // will just be available in the Destination branch
+        public void Method_Destination() { }
+
+        // This new method named Method_Destination2
+        // will just be available in the Destination branch
+        public void Method_Destination2() { }
     }
 }
