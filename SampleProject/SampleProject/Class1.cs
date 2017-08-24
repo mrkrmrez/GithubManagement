@@ -15,5 +15,10 @@ namespace SampleProject
         // This new method named Method_Destination2
         // will just be available in the Destination branch
         public void Method_Destination2() { }
+        // This new method named Method_Source 
+        // will just be available in Source branch
+        public void Method_Source() { }
     }
+
+    
 }
